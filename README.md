@@ -1,16 +1,26 @@
 ## Hi there 👋 I'm Shahin Bashir
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;3%2B+Years+of+Experience;Building+Scalable+Web+Apps;Clean+Code+%7C+Best+Practices" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahin-bashir&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 🚀 **MERN Stack Developer** with **3+ years of experience** building scalable, high-performance web applications.  
-I focus on clean architecture, performance, and real-world problem solving.
+I specialize in **React, Node.js, Express, and MongoDB**, focusing on clean architecture and real-world solutions.
 
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Full-Stack MERN Developer (React, Node.js, Express, MongoDB)
+- 💼 Full-Stack MERN Developer
 - 🎓 Bachelor’s in Computer Applications (BCA), 2025
-- 🧠 Passionate about clean code & scalable systems
-- 🌱 Continuously learning backend patterns & system design
-- 🤝 Open to collaboration and open-source contributions
+- 🧠 Strong focus on clean code & scalability
+- 🌱 Currently improving backend architecture & system design
+- 🤝 Open to collaboration & open-source contributions
 
 ---
 
@@ -34,18 +44,26 @@ I focus on clean architecture, performance, and real-world problem solving.
 
 ---
 
-### 📌 What I’m Currently Doing
-- 🔭 Building full-stack MERN applications
-- 🌱 Improving backend scalability & system design skills
-- 👯 Looking to collaborate on real-world & open-source projects
+### 🚀 Featured Projects
+#### 🔹 Project One
+> Full-stack MERN application with authentication and REST APIs  
+🔗 https://github.com/shahin-bashir/project-one
+
+#### 🔹 Project Two
+> Scalable backend service using Node.js & MongoDB  
+🔗 https://github.com/shahin-bashir/project-two
+
+#### 🔹 Project Three
+> React-based frontend with modern UI & state management  
+🔗 https://github.com/shahin-bashir/project-three
+
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahin-bashir&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahin-bashir&theme=tokyonight" height="160"/>
-</p>
+### 📊 GitHub Activity
+- Active contributor to MERN stack projects
+- Focused on clean code and scalable backend systems
+- Regular commits on production-ready applications
 
 ---
 
@@ -53,18 +71,18 @@ I focus on clean architecture, performance, and real-world problem solving.
 - MERN Stack Development  
 - REST API Design  
 - JavaScript & React Best Practices  
-- Backend Architecture
+- Backend Architecture  
 
 ---
 
 ### 📫 Connect With Me
 - 💼 GitHub: https://github.com/shahin-bashir  
-- 📧 Email: shahinahmad7800@gmail.com  
+- 📧 Email: shahinahmad7800@gmail.com 
 - 🌐 Portfolio: https://shahinbashir.vercel.app/
 
 ---
 
 ### ⚡ Fun Fact
-I believe **consistency beats talent** — one commit at a time.
+**Consistency beats talent — one commit at a time.**
 
 ⭐️ Feel free to explore my repositories and connect!
